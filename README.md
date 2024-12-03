@@ -16,7 +16,7 @@ A Task Manager App using ReactJS and Redux, You can add Your Task . Edit , Updat
 * LocalStorage
 * Framer Motion for some Animation (https://www.framer.com/motion/)
 
-💎**Deployed Link :** https://task-manager-rawe.netlify.app/
+💎**Deployed Link :
 
 
 🏃‍♀️**To run:**
